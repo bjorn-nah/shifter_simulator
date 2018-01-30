@@ -1,2 +1,2 @@
-# b-rush
-b-rush - game for Nintendo Nes - Not competing entry at the AC 2017
+# Shifter Simulator
+Shifter Simulator - game for Nintendo Nes - Done at Global Game Jam 2018
